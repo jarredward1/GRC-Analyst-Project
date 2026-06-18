@@ -1,4 +1,4 @@
-# 🛡️ Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0
+# Corporate Cybersecurity Assessment Utilizing NIST Cybersecurity Framework (CSF) 2.0
 
 > A comprehensive cybersecurity assessment for a fictional organization (Cypronetics), conducted using NIST CSF 2.0. Includes a pass/fail evaluation across all six core functions, current and target profile analysis, and a full remediation roadmap.
 
