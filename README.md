@@ -4,6 +4,26 @@
 
 ---
 
+## 📋 Table of Contents
+
+- [Overview](#-overview)
+- [Objectives](#-objectives)
+- [Frameworks Applied](#️-frameworks-applied)
+- [CSF Core Functions](#-csf-core-functions)
+- [Maturity Tier Assessment](#-maturity-tier-assessment)
+- [Current Status Report](#-current-status-report)
+- [Assessment Findings and Recommendations](#-assessment-findings-and-recommendations)
+  - [GOVERN](#govern)
+  - [IDENTIFY](#identify)
+  - [PROTECT](#protect)
+  - [DETECT](#detect)
+  - [RESPOND](#respond)
+  - [RECOVER](#recover)
+- [Conclusion](#-conclusion)
+- [Author](#-author)
+
+---
+
 ## 📌 Overview
 
 For this project I was tasked with analyzing a fictional organization's (Cypronetics) cybersecurity posture and designing a comprehensive security program utilizing [NIST CSF 2.0](https://www.nist.gov/publications/nist-cybersecurity-framework-csf-20). Using a current status report compiled from employee and stakeholder interviews, I conducted a pass/fail assessment across all CSF core functions and delivered recommendations for improvement, including a stakeholder presentation and a full remediation plan.
